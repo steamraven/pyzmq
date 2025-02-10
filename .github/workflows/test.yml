@@ -5,6 +5,7 @@ on:
     branches-ignore:
       - "dependabot/**"
       - "pre-commit-ci-update-config"
+      - "main"
     paths-ignore:
       - "docs/**"
       - "tools/**"
